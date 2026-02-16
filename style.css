@@ -26,6 +26,14 @@
   background-color: #7967FF;
 }
 
+.bg-ffg {
+  background-color: #EAE7FF;
+}
+
+.bg-footer {
+  background-color: #EF6A62;
+}
+
 .btn-primary {
   background-color: #35afbf;
   color: white;
