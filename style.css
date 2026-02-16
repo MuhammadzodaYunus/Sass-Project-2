@@ -18,6 +18,10 @@
   background-color: rgb(255, 207, 60);
 }
 
+.bg-bg {
+  background-color: rgb(245, 244, 255);
+}
+
 .btn-primary {
   background-color: #35afbf;
   color: white;
