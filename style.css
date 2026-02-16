@@ -22,6 +22,10 @@
   background-color: rgb(245, 244, 255);
 }
 
+.bg-rang {
+  background-color: #7967FF;
+}
+
 .btn-primary {
   background-color: #35afbf;
   color: white;
